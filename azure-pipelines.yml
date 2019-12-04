@@ -1,3 +1,4 @@
+# CI only for commits to master and PRs
 trigger:
 - master
 pr:
