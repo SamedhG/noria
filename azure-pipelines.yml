@@ -1,4 +1,4 @@
-# only run CI for commits to master or PRs
+# CI runs only for commits to master and PRs
 trigger:
 - master
 pr:
